@@ -28,5 +28,3 @@
    src/test/java/com/example/mvchallenge/MvchallengeApplicationTests.java
    ```
    Lá, você encontrará os testes unitários e de integração relacionados à sua aplicação.
-
-Essas instruções detalhadas devem ajudar os desenvolvedores a configurar o ambiente, executar o servidor e explorar a documentação e os testes de forma eficaz.
