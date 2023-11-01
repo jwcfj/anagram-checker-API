@@ -25,6 +25,6 @@
 **Acessando os Testes:**
 1. Para acessar os testes do projeto, vá para o seguinte caminho no seu projeto:
    ```
-   src/test/java/com/example/mvchallenge/MvchallengeApplicationTests.java
+   src/test/java/com/example/AnagramCheckerAPI/anagram/AnagramCheckerServiceTests.java
    ```
    Lá, você encontrará os testes unitários e de integração relacionados à sua aplicação.
