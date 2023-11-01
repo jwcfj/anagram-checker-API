@@ -1,8 +1,8 @@
-package com.example.mvchallenge.controler;
+package com.example.AnagramCheckerAPI.controler;
 
 
-import com.example.mvchallenge.anagram.AnagramCheckerService;
-import com.example.mvchallenge.anagram.AnagramRequestDataDTO;
+import com.example.AnagramCheckerAPI.anagram.AnagramCheckerService;
+import com.example.AnagramCheckerAPI.anagram.AnagramRequestDataDTO;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;
 import io.swagger.v3.oas.annotations.Operation;

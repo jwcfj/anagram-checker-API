@@ -1,4 +1,4 @@
-package com.example.mvchallenge.anagram;
+package com.example.AnagramCheckerAPI.anagram;
 
 public record AnagramRequestDataDTO(String word1, String word2) {
 }

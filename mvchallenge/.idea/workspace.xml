@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937c16c4-a41c-44cb-ae75-a80260d05d0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvchallenge/MvchallengeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/main/java/com/example/AnagramCheckerAPI/AnagramCheckerAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvchallenge/anagram/AnagramCheckerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/main/java/com/example/AnagramCheckerAPI/anagram/AnagramCheckerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvchallenge/anagram/AnagramRequestDataDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/main/java/com/example/AnagramCheckerAPI/anagram/AnagramRequestDataDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvchallenge/controler/AnagramController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/main/java/com/example/AnagramCheckerAPI/controler/AnagramController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/mvchallenge/MvchallengeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/test/java/com/example/AnagramCheckerAPI/AnagramCheckerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/mvchallenge/anagram/AnagramCheckerServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnagramChecker/src/test/java/com/example/AnagramCheckerAPI/anagram/AnagramCheckerServiceTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jwcfj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="de035fdb-ec59-4758-8d11-e6705b3bd9c8" />
+        <option name="url" value="git@github.com:jwcfj/mv-challenge.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VmTOvUHSFaZaHL6ogyQ2LFVxOO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/programacao/mv-challenge/AnagramChecker"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AnagramCheckerAPI">
+    <configuration name="AnagramCheckerAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.AnagramCheckerAPI.AnagramCheckerAPI" />
+      <module name="mvchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.AnagramCheckerAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramCheckerServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.AnagramCheckerAPI.anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mvchallenge.anagram" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AnagramCheckerAPI.anagram.AnagramCheckerServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramCheckerServiceTests.returnFalseAnagramChecker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.AnagramCheckerAPI.anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mvchallenge.anagram" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AnagramCheckerAPI.anagram.AnagramCheckerServiceTests" />
+      <option name="METHOD_NAME" value="returnFalseAnagramChecker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramCheckerServiceTests.returnTrueAnagramChecker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.AnagramCheckerAPI.anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mvchallenge.anagram" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AnagramCheckerAPI.anagram.AnagramCheckerServiceTests" />
+      <option name="METHOD_NAME" value="returnTrueAnagramChecker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramCheckerServiceTests.testCheckWithEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.AnagramCheckerAPI.anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mvchallenge.anagram" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AnagramCheckerAPI.anagram.AnagramCheckerServiceTests" />
+      <option name="METHOD_NAME" value="testCheckWithEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnagramCheckerAPI" />
+        <item itemvalue="JUnit.AnagramCheckerServiceTests" />
+        <item itemvalue="JUnit.AnagramCheckerServiceTests.returnTrueAnagramChecker" />
+        <item itemvalue="JUnit.AnagramCheckerServiceTests.returnFalseAnagramChecker" />
+        <item itemvalue="JUnit.AnagramCheckerServiceTests.testCheckWithEmptyString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937c16c4-a41c-44cb-ae75-a80260d05d0c" name="Changes" comment="" />
+      <created>1695440227745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695440227745</updated>
+    </task>
+    <servers />
+  </component>
+</project>

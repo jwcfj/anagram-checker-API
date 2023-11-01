@@ -1,10 +1,10 @@
-package com.example.mvchallenge;
+package com.example.AnagramCheckerAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MvchallengeApplicationTests {
+class AnagramCheckerApplicationTests {
 
 	@Test
 	void contextLoads() {
