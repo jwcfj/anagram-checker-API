@@ -23,8 +23,8 @@
    This will open the Swagger interface, where you can explore the API documentation and test the endpoints.
 
 **Accessing Tests:**
-1. To access the project's tests, go to the following path in your project:
+1. To access the project's tests, go to the following path in the project:
    ```
    src/test/java/com/example/AnagramCheckerAPI/anagram/AnagramCheckerServiceTests.java
    ```
-   There, you will find unit and integration tests related to your application.
+   There, you can find unit and integration tests related to the application.
