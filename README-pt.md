@@ -23,8 +23,8 @@
    Isso abrirá a interface do Swagger, onde você pode explorar a documentação da API e testar os endpoints.
 
 **Acessando os Testes:**
-1. Para acessar os testes do projeto, vá para o seguinte caminho no seu projeto:
+1. Para acessar os testes do projeto, vá para o seguinte caminho do projeto:
    ```
    src/test/java/com/example/AnagramCheckerAPI/anagram/AnagramCheckerServiceTests.java
    ```
-   Lá, você encontrará os testes unitários e de integração relacionados à sua aplicação.
+   Lá, você encontrará os testes unitários e de integração relacionados à aplicação.
